@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkinscripcion_usuario_bootstrapvue"]=self["webpackChunkinscripcion_usuario_bootstrapvue"]||[]).push([[443],{507:function(u,n,s){s.r(n),s.d(n,{default:function(){return o}});var t=function(){var u=this;u._self._c;return u._m(0)},i=[function(){var u=this,n=u._self._c;return n("div",{staticClass:"about"},[n("h1",[u._v("This is an about page")])])}],r=s(1),a={},e=(0,r.Z)(a,t,i,!1,null,null,null),o=e.exports}}]);
+//# sourceMappingURL=about.88a9cfc8.js.map
